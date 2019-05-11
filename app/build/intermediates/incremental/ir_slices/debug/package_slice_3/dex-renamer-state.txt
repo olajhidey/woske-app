@@ -1,0 +1,4 @@
+#Mon May 06 08:51:25 WAT 2019
+base.0=C\:\\Users\\JIDE\\Desktop\\Codelab Android\\LESSON FIVE\\CODES\\android-fundamentals-starter-apps-v2\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+path.0=classes.dex
+renamed.0=classes.dex
